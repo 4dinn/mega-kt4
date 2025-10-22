@@ -1,5 +1,5 @@
 
-# My E-Store (React)
+# store (React)
 
 This project implements the assignment:
 - Fetch products from `https://fakestoreapi.com/products`
